@@ -65,4 +65,4 @@ invertedIndex = dict(sorted(invertedIndex.items()))
 
 # Print inverted index
 for key, value in invertedIndex.items():
-    print(f"{key}\t: {value}")
+    print(f"{key}: {value}")
