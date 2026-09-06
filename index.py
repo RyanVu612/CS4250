@@ -18,8 +18,8 @@ data = pd.read_csv("collection.csv")
 # --> add your Python code here
 lemmas = {}
 lemmas["homes"] = "home"
-lemmas["increases"] = "rise"
-lemmas["increasing"] = "rise"
+lemmas["increases"] = "increase"
+lemmas["increasing"] = "increase"
 lemmas["rising"] = "rise"
 lemmas["sales"] = "sale"
 
